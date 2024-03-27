@@ -1,1 +1,1 @@
-This repo contains the sources of the CARDAPIO webpage (TO COME SOON!!).
+TO COME SOON!!! This will be the webpage of the IRN-CARDAPIO project.
