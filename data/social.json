@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Email",
+        "link": "mailto:contactdreamgcm@gmail.com",
+        "image": "images/PICOL_icon_Mailw.png"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/IRN-CARDAPIO",
+        "image": "images/github.svg"
+    }    
+]
