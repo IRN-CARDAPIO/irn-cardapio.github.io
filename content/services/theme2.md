@@ -8,4 +8,4 @@ heroHeading: ''
 heroSubHeading: ''
 heroBackground: ''
 ---
-__Learning__ about the interplay between sea ice and upper ocean dynamics.
+__Collaborating__ between different tropical regions.

@@ -8,4 +8,4 @@ heroHeading: ''
 heroSubHeading: 'truc'
 heroBackground: ''
 ---
-__Improving__ existing climate models and climate projections with better sea ice representation.
+__Forecasting__ at the regional scale.

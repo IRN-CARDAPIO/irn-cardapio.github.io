@@ -8,4 +8,4 @@ heroHeading: ''
 heroSubHeading: ''
 heroBackground: ''
 ---
-__Modelling__ sea-ice and its multi-scale dynamics.
+__Modelling__ tropical precipitation.
