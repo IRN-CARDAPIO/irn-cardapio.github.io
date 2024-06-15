@@ -7,45 +7,31 @@
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
 
-<div class="container">
-  <hr>
-  <h3 style="text-align: center;color:  #0a4c89;">LEGOS, Toulouse, France</h3>
-  <div class="row">
-    {{ range where .Pages.ByWeight ".Params.institution" "LEGOS"  }}
-    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
-    {{ end }}
-  </div>
-</div>
-
-<div class="container">
-  <hr>
-  <h3 style="text-align: center; color:  #0a4c89 ;">UFC/LABOMAR, Fortaleza, Brazil</h3>
-  <div class="row">
-    {{ range where .Pages.ByWeight ".Params.institution" "UFC/LABOMAR"  }}
-    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
-    {{ end }}
-  </div>
-</div>
-
-<div class="container">
-  <hr>
-  <h3 style="text-align: center; color:  #0a4c89 ;">FUNCEME, Fortaleza, Brazil</h3>
-  <div class="row">
-    {{ range where .Pages.ByWeight ".Params.institution" "FUNCEME"  }}
-    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
-    {{ end }}
-  </div>
-</div>
-
-<div class="container">
-  <hr>
-  <h3 style="text-align: center; color:  #0a4c89 ;">DATLAS, Grenoble, France</h3>
-  <div class="row">
-    {{ range where .Pages.ByWeight ".Params.institution" "Datlas"  }}
-    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
-    {{ end }}
-  </div>
-</div>
-
+    <div class="container">
+      <hr>
+      {{ $institutions := dict 
+        "LEGOS" "LEGOS, Toulouse, France"
+        "UFC/LABOMAR" "Univeristy of Fortaleza / LABOMAR, Fortaleza, Brazil"
+        "FUNCEME" "FUNCEME, Fortaleza, Brazil"
+        "IRD/GET" "IRD / GET, Toulouse, France"
+        "USP/IAG" "University of São Paulo / IAG, Brazil"
+        "UFHB/LASMES" "UFHB/LASMES, Abijan, Ivory Coast"
+        "UAC/CIPMA" "UAC/CIPMA, Cotonou, Benin"
+        "USTH" "University of Science and Technology of Hanoi, Vietnam"
+        "Datlas" "DATLAS, Grenoble, France"
+      }}
+      {{ $keys := slice "LEGOS" "UFC/LABOMAR" "FUNCEME"  "IRD/GET" "USP/IAG" "UFHB/LASMES" "UAC/CIPMA" "USTH" "Datlas"}}
+      {{ range $keys }}
+        {{ $key := . }}
+        <h3 class="institution-heading">{{ index $institutions $key }}</h3>
+        <div class="row">
+          {{ $pages := where $.Site.Pages.ByWeight ".Params.institution" $key }}
+          {{ range $pages }}
+            <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
+          {{ end }}
+        </div>
+        <hr>
+      {{ end }}
+    </div>
 
 {{ end }}

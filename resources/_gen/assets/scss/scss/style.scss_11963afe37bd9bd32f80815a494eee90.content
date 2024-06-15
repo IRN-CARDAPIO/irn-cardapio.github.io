@@ -6458,6 +6458,12 @@ ol {
       font-size: 0.8rem;
       line-height: 1.34; }
 
+.institution-heading {
+  text-align: center;
+  color: #0a4c89;
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
+
 .team-summary {
   display: flex;
   flex-wrap: wrap;

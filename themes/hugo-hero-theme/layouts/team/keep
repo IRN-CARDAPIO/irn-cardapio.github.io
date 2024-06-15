@@ -1,0 +1,51 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-team-list{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+
+<div class="container">
+  <hr>
+  <h3 style="text-align: center;color:  #0a4c89;">LEGOS, Toulouse, France</h3>
+  <div class="row">
+    {{ range where .Pages.ByWeight ".Params.institution" "LEGOS"  }}
+    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
+    {{ end }}
+  </div>
+</div>
+
+<div class="container">
+  <hr>
+  <h3 style="text-align: center; color:  #0a4c89 ;">UFC/LABOMAR, Fortaleza, Brazil</h3>
+  <div class="row">
+    {{ range where .Pages.ByWeight ".Params.institution" "UFC/LABOMAR"  }}
+    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
+    {{ end }}
+  </div>
+</div>
+
+<div class="container">
+  <hr>
+  <h3 style="text-align: center; color:  #0a4c89 ;">FUNCEME, Fortaleza, Brazil</h3>
+  <div class="row">
+    {{ range where .Pages.ByWeight ".Params.institution" "FUNCEME"  }}
+    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
+    {{ end }}
+  </div>
+</div>
+
+<div class="container">
+  <hr>
+  <h3 style="text-align: center; color:  #0a4c89 ;">DATLAS, Grenoble, France</h3>
+  <div class="row">
+    {{ range where .Pages.ByWeight ".Params.institution" "Datlas"  }}
+    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
+    {{ end }}
+  </div>
+</div>
+
+
+{{ end }}
