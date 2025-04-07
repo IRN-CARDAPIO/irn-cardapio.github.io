@@ -1,10 +1,10 @@
 ---
-title: "CARDAPIO summary"
+title: "CARDAPIO in short"
 draft: false
 featured: true
 icon: 'images/dream-logo.png'
 weight: 1
-heroSubHeading: 'title'
+heroSubHeading: 'CARDAPIO in short'
 ---
 
 Continental rainfall in the tropics is of central importance to a large fraction of the world’s population, and presents a major scientific challenge, both in terms of its fundamental nature and its prediction. Tropical regions have rainfall regimes that display a marked seasonal cycle but are also subject to large variations from one year to another and within a season. Understanding and predicting these variations is crucial for the basic needs of society, including water management, agriculture and power generation.
