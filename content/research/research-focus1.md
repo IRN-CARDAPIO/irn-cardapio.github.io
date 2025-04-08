@@ -5,11 +5,11 @@ draft: false
 featured: true
 icon: 'images/logo-focus-1.png'
 weight: 2
-heroSubHeading: 'Focus 1'
+heroSubHeading: 'Focus 1: DREAM seasonal forecasts for Nordeste rainfall'
 heroBackground: '/images/fig_1.1.png'
 ---
 
-DREAM seasonal forecasts for Nordeste rainfall
+-
 
 A simple GCM known as DREAM has been used as a tropical seasonal forecast model in a range of studies carried out at FUNCEME, Fortaleza, Brazil. The model is forced by empirically derived source terms and includes basic parameterisations to simulate vertical diffusion, convection and condensation. To test the forecast skill of the model, historical forecasts were made of the rainy season in northeastern Brazil. They cover February-April season in the years 1982–2020, and have been extended as operational forecasts up to 2025.
 
