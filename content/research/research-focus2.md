@@ -5,10 +5,10 @@ draft: false
 featured: true
 icon: 'images/logo-focus-2.png'
 weight: 3
-heroSubHeading: 'Focus 2'
+heroSubHeading: 'Focus 2:  Effect of Canonical Sea Surface Temperature Patterns on Nordeste Rainfall'
 heroBackground: '/images/tropicsatcloud.png'
 ---
-Effect of Canonical Sea Surface Temperature Patterns on Nordeste Rainfall
+-
 
 The DREAM simple GCM was used in this study to investigate the typical response of February to April (FMA) rainfall over Northeast Brazil to frequently observed patterns in Sea Surface Temperature (SST). Typical SSTA anomaly patterns considered included two types of El Niño; La Niña and the tropical North and South Atlantic. Each anomaly pattern was introduced into the GCM to make ensemble seasonal forecasts.  
 
