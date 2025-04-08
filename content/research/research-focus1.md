@@ -14,7 +14,7 @@ DREAM seasonal forecasts for Nordeste rainfall
 A simple GCM known as DREAM has been used as a tropical seasonal forecast model in a range of studies carried out at FUNCEME, Fortaleza, Brazil. The model is forced by empirically derived source terms and includes basic parameterisations to simulate vertical diffusion, convection and condensation. To test the forecast skill of the model, historical forecasts were made of the rainy season in northeastern Brazil. They cover February-April season in the years 1982–2020, and have been extended as operational forecasts up to 2025.
 
 <figure>
-  <img src="/images/fig_1.1.png" alt="Alt text" style="max-width: 700px !important; height: auto !important;" />
+  <img src="/images/fig_1.1.png" alt="Alt text" style="max-width: 800px !important; height: auto !important;" />
 <figcaption style="font-style: italic; font-size: 0.9rem; color: #666; margin-top: 0.5em;">
   Fig. 1: FMA mean rainfall in mm/day for GPCP climatology (left) and DREAM (right).
 </figcaption>
@@ -24,9 +24,13 @@ Ensemble forecasts with 38 members are initiated on 1st January with persisted t
 
 <figure>
   <img src="/images/fig_1.2.png" alt="Alt text" style="max-width: 800px !important; height: auto !important;" />
-  <figcaption>  <em>Fig. 2: Nordeste FMA rainfall anomaly box plots for DREAM ensemble forecasts compared to GPCP anomalies. </em>em></figcaption>
+<figcaption style="font-style: italic; font-size: 0.9rem; color: #666; margin-top: 0.5em;">
+  Fig. 2: Nordeste FMA rainfall anomaly box plots for DREAM ensemble forecasts compared to GPCP anomalies. 
+</figcaption>
 </figure>
 Further forecasts were performed with SSTAs restricted to the three major ocean basins. Most of the forecast skill in the Nordeste can be attributed to the Pacific, despite the model's greater sensitivity to Atlantic SSTAs. 
 
-Details in this paper: Francisco das Chagas Vasconcelos Junior, Nicholas M.J. Hall, Leticia Cardoso, Aubains Hounsou-Gbo and Eduardo Martins, __2025__: _Simple GCM simulations of rainfall over Northeast Brazil, Part 2: Model performance for historical seasonal forecasts._ Int. J.Climatol, [http://doi.org/10.1002/joc.8725](http://doi.org/10.1002/joc.8725).
+---
+More details in this paper: 
+* Francisco das Chagas Vasconcelos Junior, Nicholas M.J. Hall, Leticia Cardoso, Aubains Hounsou-Gbo and Eduardo Martins, __2025__: _Simple GCM simulations of rainfall over Northeast Brazil, Part 2: Model performance for historical seasonal forecasts._ Int. J.Climatol, [http://doi.org/10.1002/joc.8725](http://doi.org/10.1002/joc.8725).
 
