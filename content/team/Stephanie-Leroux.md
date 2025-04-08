@@ -2,7 +2,7 @@
 title: "Stephanie Leroux"
 draft: false
 image: "images/team/LerouxStephanie.jpg"
-jobtitle: "Senior Scientist"
+jobtitle: "Research Scientist"
 website: https://datlas-ocean.github.io/team/SL/
 institution: Datlas
 weight: 8
