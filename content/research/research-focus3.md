@@ -8,7 +8,6 @@ weight: 4
 heroSubHeading: 'Focus 3: Drivers and Consequences of the abnormally warm Atlantic in 2023-24'
 heroBackground: '/images/tropicsatcloud.png'
 ---
--
 
 The surface of the tropical Atlantic was warm at the beginning of 2024, both north and south of the equator, as shown in fig. 1. The warm sea surface is consistent with weak zonal winds and an associated reduction in latent heat loss from the surface of the ocean. 
 
@@ -40,5 +39,5 @@ The eastern tip of Nordeste Brazil is now dry, at odds with the observations. It
 </figure>
 
 ---
-This work is being prepared for publications buy Aubains Hounsou-Gbo (LABOMAR-UFC Fortaleza).
+This work is being prepared for publications by Aubains Hounsou-Gbo (LABOMAR-UFC Fortaleza).
 
