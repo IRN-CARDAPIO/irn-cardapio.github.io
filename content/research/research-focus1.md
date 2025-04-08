@@ -6,6 +6,7 @@ featured: true
 icon: 'images/dream-logo.png'
 weight: 2
 heroSubHeading: 'Focus 1'
+heroBackground: '/images/fig_1.1.png'
 ---
 
 DREAM seasonal forecasts for Nordeste rainfall
