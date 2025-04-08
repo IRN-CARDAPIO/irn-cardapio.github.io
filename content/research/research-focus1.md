@@ -3,7 +3,7 @@ title: "Focus 1: DREAM seasonal forecasts for Nordeste rainfall
 "
 draft: false
 featured: true
-icon: 'images/dream-logo.png'
+icon: 'images/logo-focus-1.png'
 weight: 2
 heroSubHeading: 'Focus 1'
 heroBackground: '/images/fig_1.1.png'
