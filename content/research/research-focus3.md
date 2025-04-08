@@ -4,7 +4,7 @@ title: "Focus 3: Drivers and Consequences of the abnormally warm Atlantic in 202
 draft: false
 featured: true
 icon: 'images/logo-focus-3.png'
-weight: 3
+weight: 4
 heroSubHeading: 'Focus 3: Drivers and Consequences of the abnormally warm Atlantic in 2023-24'
 heroBackground: '/images/tropicsatcloud.png'
 ---
