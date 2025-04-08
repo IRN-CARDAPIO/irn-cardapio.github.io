@@ -20,7 +20,7 @@ Complimentary experiments with a dry purely dynamical version of DREAM reveal th
 <figure>
   <img src="/images/fig_2.1.png" alt="Alt text" style="max-width: 800px !important; height: auto !important;" />
 <figcaption style="font-style: italic; font-size: 0.9rem; color: #666; margin-top: 0.5em;">
-  Left column: January–April (JFMA) regression of GPCP precipitation against SSTA in tropical Atlantic regions. Right column: February–April (FMA) mean ensemble mean precipitation anomaly response for DREAM. SSTA patterns for tropical North Atlantic (top); and tropical South Atlantic (bottom).
+  Fig.1 Left column: January–April (JFMA) regression of GPCP precipitation against SSTA in tropical Atlantic regions. Right column: February–April (FMA) mean ensemble mean precipitation anomaly response for DREAM. SSTA patterns for tropical North Atlantic (top); and tropical South Atlantic (bottom).
 </figcaption>
 </figure>
 
