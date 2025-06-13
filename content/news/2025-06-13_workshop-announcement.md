@@ -1,6 +1,5 @@
 ---
 title: 'DREAM workshop announcement'
-subtitle: 'Save the dates of 16-17th of July, 2025 for the DREAM course and workshop !'
 date: 2025-06-13
 authors:
 categories: ['Meetings']
