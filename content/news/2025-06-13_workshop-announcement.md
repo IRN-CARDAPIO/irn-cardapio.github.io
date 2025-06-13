@@ -39,7 +39,7 @@ _Instructors: _
 
 
 
-For detailed program see [here](./images/worshop-program-v1) (preliminary version).
+For detailed program see [here](./images/2025-DREAMworkshop-prog-v1.pdf) (preliminary version).
 
 
 
