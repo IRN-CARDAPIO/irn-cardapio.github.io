@@ -1,6 +1,6 @@
 ---
 title: 'DREAM workshop announcement'
-heroHeading: 'Save the date for the DREAM workshop!'
+heroHeading: 'DREAM workshop: Save the date!'
 date: 2025-06-13
 authors:
 categories: ['Meetings']
