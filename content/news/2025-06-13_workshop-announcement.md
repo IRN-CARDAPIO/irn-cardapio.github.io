@@ -21,7 +21,7 @@ We will introduce the Dynamical Research Empirical Atmospheric Model (DREAM, see
 
 Most of the two days will be dedicated to presentation and training in the use of DREAM. Participants in the training sessions are also welcome to attend the half-day of CARDAPIO presentations on the first afternoon. All sessions will also include a zoom link for external participants and the hands-on sessions will be guided by three instructors. 
 
-**For DETAILED PROGRAM, SEE [HERE](./images/2025-DREAMworkshop-prog-v1.pdf)** (preliminary version).
+**For DETAILED PROGRAM, SEE [HERE](/images/2025-DREAMworkshop-prog-v1.pdf)** (preliminary version).
 
 
 _Objectives of the training:_
