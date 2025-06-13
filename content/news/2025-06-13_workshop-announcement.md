@@ -1,6 +1,6 @@
 ---
 title: 'DREAM workshop announcement'
-heroHeading: 'DREAM workshop: Save the date!'
+heroHeading: 'Save the date!'
 date: 2025-06-13
 authors:
 categories: ['Meetings']
@@ -11,7 +11,7 @@ heroBackground: '/images/tropicsatcloud.png'
 
 
 
-### July 16th and 17th 2025 in Toulouse, France.
+### DREAM worshop: July 16-17th, 2025 in Toulouse, France.
 
 We are pleased to announce the coming DREAM course & workshop, as part of the CARDAPIO IRN IRD project.
 
