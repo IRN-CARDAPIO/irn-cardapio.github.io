@@ -1,11 +1,11 @@
 ---
 title: 'Get started with the DREAM model!'
 heroHeading: ''
-date: 2025-07-17
+date: 2025-07-18
 authors:
 categories: ['Code']
 description: DREAM tutorials
-thumbnail: 'images/DREAM-tuto.png'
+thumbnail: 'images/screenshot_tuto.png'
 heroBackground: '/images/tropicsatcloud.png'
 ---
 
