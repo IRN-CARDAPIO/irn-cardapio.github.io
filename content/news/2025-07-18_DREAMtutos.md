@@ -5,7 +5,7 @@ date: 2025-07-17
 authors:
 categories: ['Code']
 description: DREAM tutorials
-thumbnail: 'images/workshop_toulouseparticipants.jpg'
+thumbnail: 'images/DREAM-tuto.png'
 heroBackground: '/images/tropicsatcloud.png'
 ---
 
